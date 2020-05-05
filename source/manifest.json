@@ -1,0 +1,10 @@
+{
+	"name" : "Baseline select_one field with search",
+	"author" : "Dobility",
+	"version": "1.0.5",
+	"supportedFieldTypes": ["select_one"],
+	"externalCss": ["select2.min.css"],
+	"externalJs": ["jquery-3.5.1.min.js","select2.min.js"],
+	"hideDefaultRequiredMessage": false,
+	"hideDefaultConstraintMessage": false
+}
