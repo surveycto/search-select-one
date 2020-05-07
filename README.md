@@ -64,7 +64,7 @@ To create your own field plug-in using this as a template, follow these steps:
 ## More resources
 
 * **Test form**  
-This form will help you explore the differences between this field plug-in and the default text field.  
+You can find a sample form definition here:   
 [Download sample form](https://github.com/surveycto/search-select-one/raw/master/extras/sample-form/plugin_test_form_search_select_one.xlsx)  
 
 * **Developer documentation**  
