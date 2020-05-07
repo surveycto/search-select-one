@@ -6,7 +6,7 @@
 
 ## Description
 
-This builds on the [baseline-select_one fieldplugin](https://github.com/surveycto/baseline-select_one), adding the ability to filter the options.You can either download and use this as-is, or you can use it as a starting template when creating your own field plug-in for a select_one field.
+This builds on the [baseline-select_one fieldplugin](https://github.com/surveycto/baseline-select_one), adding the ability to ***filter*** the options by searching when using the default and minimal appearance.
 
 [![Download now](extras/download-button.png)](https://github.com/surveycto/search-select-one/raw/master/search-select-one.fieldplugin.zip)
 
@@ -64,7 +64,7 @@ To create your own field plug-in using this as a template, follow these steps:
 
 * **Test form**  
 This form will help you explore the differences between this field plug-in and the default text field.  
-[Download test form package](https://github.com/surveycto/search-select-one/raw/master/extras/sample-form/plugin_test_form_search_select_one.xlsx)  
+[Download sample form](https://github.com/surveycto/search-select-one/raw/master/extras/sample-form/plugin_test_form_search_select_one.xlsx)  
 
 * **Developer documentation**  
 Instructions and resources for developing your own field plug-ins.  
