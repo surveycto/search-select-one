@@ -1,4 +1,4 @@
-# Search-select-one
+# Search select-one
 Screenshot of search using default appearance
 ![Default appearance for the 'search-select-one' field plug-in](extras/default-search.jpg)
 
