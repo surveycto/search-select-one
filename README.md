@@ -1,4 +1,4 @@
-# Search select-one
+# Search select one
 Screenshot of search using default appearance
 ![Default appearance for the 'search-select-one' field plug-in](extras/default-search.jpg)
 
@@ -48,18 +48,8 @@ In addition to supporting the default SurveyCTO features listed above, this fiel
 
 ## How to use
 
-**To use this plug-in as-is**, just download the [search-select-one.fieldplugin.zip](https://github.com/surveycto/search-select-one/raw/master/search-select-ne.fieldplugin.zip) file from this repo, and attach it to your form.
-
-To create your own field plug-in using this as a template, follow these steps:
-
-1. Fork this repo
-1. Make changes to the files in the `source` directory.
-
-    * **Note:** be sure to update the `manifest.json` file as well.
-
-1. Zip the updated contents of the `source` directory.
-1. Rename the .zip file to *yourpluginname*.fieldplugin.zip (replace *yourpluginname* with the name you want to use for your plug-in).
-1. You may then attach your new .fieldplugin.zip file to your form as normal.
+1. Download the test form [extras/sample-form](https://github.com/surveycto/search-select-one/raw/master/extras/sample-form/plugin_test_form_search_select_one.xlsx) from this repo and upload it to your SurveyCTO server.
+1. Download the [search-select-one.fieldplugin.zip](https://github.com/surveycto/search-select-one/raw/master/search-select-ne.fieldplugin.zip) file from this repo, and attach it to the test form on your SurveyCTO server.
 
 ## More resources
 
