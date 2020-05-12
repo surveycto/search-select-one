@@ -31,7 +31,7 @@ if (fieldProperties.APPEARANCE.includes('minimal') === true) {
   selectDropDownContainer.style.display = 'block' // show the select dropdown
   $('#select-dropdown-container').select2({
     placeholder: 'Select one answer',
-    allowClear: true
+    allowClear: false
   })
 }
 // likert appearance
