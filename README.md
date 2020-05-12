@@ -7,7 +7,7 @@ Screenshot of search using minimal appearance
 
 ## Description
 
-This builds on the [baseline-select_one fieldplugin](https://github.com/surveycto/baseline-select_one), adding the ability to ***filter*** the options by searching when using the default and minimal appearance.
+This field plug-in adds the ability to filter choice list options for a select_mutiple field. Filter by entering search text into the search field. Also see the sibling field plug-in, [search-select_multiple](https://github.com/surveycto/search-select-multiple).
 
 [![Download now](extras/download-button.png)](https://github.com/surveycto/search-select-one/raw/master/search-select-one.fieldplugin.zip)
 
@@ -37,7 +37,7 @@ This builds on the [baseline-select_one fieldplugin](https://github.com/surveyct
 
 ## Expanded feature support
 
-In addition to supporting the default SurveyCTO features listed above, this field plug-in offers the following expanded functionality:
+In addition to supporting the default SurveyCTO features listed above, this field plug-in offers the following expanded functionality, inherited from the [baseline-select_one field plug-in](https://github.com/surveycto/baseline-select_one):
 
 1. Support for RTL languages  
     If your *label*, *hint*, or choice labels are in a language that uses a right-to-left alphabet (like Arabic), they will be right-justified, and the radio buttons will be to the right of the choice labels. If your form contains both right-to-left and left-to-right choice labels, the formatting will respond to the currently-selected form language.
