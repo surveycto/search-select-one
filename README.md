@@ -1,8 +1,10 @@
 # Search select one
 ![Default appearance for the 'search-select-one' field plug-in](extras/default-search.jpg)
+
 *Screenshot of search using default appearance*
 
 ![Appearance for the 'search-select-one' field plug-in with minimal](extras/minimal-search.jpg)
+
 *Screenshot of search using minimal appearance*
 
 ## Description
@@ -33,18 +35,7 @@ This field plug-in adds the ability to filter choice list options for a *select_
 | `likert-min` appearance | Yes* |
 | `likert-mid` appearance | No |
 
-**Note**: this plug-in works well for the likert-min appearance when the field label is short, and does not contain an image, audio, or video. This is a known limitation currently.
-
-## Expanded feature support
-
-In addition to supporting the default SurveyCTO features listed above, this field plug-in offers the following expanded functionality, inherited from the [baseline-select_one field plug-in](https://github.com/surveycto/baseline-select_one):
-
-1. Support for RTL languages  
-    If your *label*, *hint*, or choice labels are in a language that uses a right-to-left alphabet (like Arabic), they will be right-justified, and the radio buttons will be to the right of the choice labels. If your form contains both right-to-left and left-to-right choice labels, the formatting will respond to the currently-selected form language.
-1. Support for HTML in choice labels  
-    This plug-in will allow HTML in choice labels to be rendered as HTML, even in Collect on Android and iOS.
-1. Support for HTML in field references  
-    If you reference another field's value in either the field *label* or field *hint*, and that referenced value contains HTML, the HTML will be correctly rendered.
+This field plugin started with the [baseline-select_one field plug-in](https://github.com/surveycto/baseline-select_one) as a template and inherits the listed [expanded features](https://github.com/surveycto/baseline-select_one#expanded-feature-support) supported by the baseline field plugin. 
 
 ## How to use
 
