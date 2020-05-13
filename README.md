@@ -21,19 +21,12 @@ This field plug-in adds the ability to filter choice list options for a *select_
 | Default values | Yes |
 | Custom constraint message | Yes |
 | Custom required message | Yes |
-| Read only | Yes |
+| Read only | No |
 | media:image | Yes |
 | media:audio | Yes |
 | media:video | Yes |
 | `quick` appearance | Yes |
 | `minimal` appearance | Yes |
-| `compact` appearance | No |
-| `compact-#` appearance | No |
-| `quickcompact` appearance | No |
-| `quickcompact-#` appearance | No |
-| `likert` appearance | Yes |
-| `likert-min` appearance | Yes* |
-| `likert-mid` appearance | No |
 
 This field plugin started with the [baseline-select_one field plug-in](https://github.com/surveycto/baseline-select_one) as a template and inherits the listed [expanded features](https://github.com/surveycto/baseline-select_one#expanded-feature-support) supported by the baseline field plugin. 
 
