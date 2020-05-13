@@ -1,13 +1,13 @@
 # Search select one
-Screenshot of search using default appearance
 ![Default appearance for the 'search-select-one' field plug-in](extras/default-search.jpg)
+*Screenshot of search using default appearance*
 
-Screenshot of search using minimal appearance
 ![Appearance for the 'search-select-one' field plug-in with minimal](extras/minimal-search.jpg)
+*Screenshot of search using minimal appearance*
 
 ## Description
 
-This field plug-in adds the ability to filter choice list options for a select_mutiple field. Filter by entering search text into the search field. Also see the sibling field plug-in, [search-select_multiple](https://github.com/surveycto/search-select-multiple).
+This field plug-in adds the ability to filter choice list options for a *select_mutiple* field. Filter by entering search text into the search field. Also see the sibling field plug-in, [search-select_multiple](https://github.com/surveycto/search-select-multiple).
 
 [![Download now](extras/download-button.png)](https://github.com/surveycto/search-select-one/raw/master/search-select-one.fieldplugin.zip)
 
@@ -33,7 +33,7 @@ This field plug-in adds the ability to filter choice list options for a select_m
 | `likert-min` appearance | Yes* |
 | `likert-mid` appearance | No |
 
-**Note: this plug-in works well for the likert-min appearance when the field label is short, and does not contain an image, audio, or video. This is a known limitation currently.
+**Note**: this plug-in works well for the likert-min appearance when the field label is short, and does not contain an image, audio, or video. This is a known limitation currently.
 
 ## Expanded feature support
 
