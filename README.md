@@ -32,14 +32,14 @@ This field plugin started with the [baseline-select_one field plug-in](https://g
 
 ## How to use
 
-1. Download the test form [extras/sample-form](https://github.com/surveycto/search-select-one/raw/master/extras/sample-form/plugin_test_form_search_select_one.xlsx) from this repo and upload it to your SurveyCTO server.
-1. Download the [search-select-one.fieldplugin.zip](https://github.com/surveycto/search-select-one/raw/master/search-select-ne.fieldplugin.zip) file from this repo, and attach it to the test form on your SurveyCTO server.
+1. Download the test form [extras/sample-form](https://github.com/surveycto/search-select-one/raw/master/search-select-one.fieldplugin.zip) from this repo and upload it to your SurveyCTO server.
+1. Download the [search-select-one.fieldplugin.zip](https://github.com/surveycto/search-select-one/raw/master/search-select-one.fieldplugin.zip) file from this repo, and attach it to the test form on your SurveyCTO server.
 
 ## More resources
 
 * **Test form**  
 You can find a sample form definition here:   
-[Download sample form](https://github.com/surveycto/search-select-one/raw/master/extras/sample-form/plugin_test_form_search_select_one.xlsx)  
+[Download sample form](https://github.com/surveycto/search-select-one/raw/master/search-select-one.fieldplugin.zip)  
 
 * **Developer documentation**  
 Instructions and resources for developing your own field plug-ins.  
