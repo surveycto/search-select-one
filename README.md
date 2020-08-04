@@ -13,7 +13,17 @@ This field plug-in adds the ability to filter choice list options for a *select_
 
 [![Download now](extras/download-button.png)](https://github.com/surveycto/search-select-one/raw/master/search-select-one.fieldplugin.zip)
 
-## Default SurveyCTO feature support
+### Data Format
+This field plug-in supports the `select_one` and `select_multiple` field types.
+Values are stored normally as per the above field types.
+
+## How to use
+
+### Getting Started
+1. Download the sample form [extras/sample-form](https://github.com/surveycto/search-select-one/raw/master/extras/sample-form/Sample%20Form%20-%20Search%20a%20select_one%20choice%20list.xlsx) from this repo and upload it to your SurveyCTO server.
+1. Download the [search-select-one.fieldplugin.zip](https://github.com/surveycto/search-select-one/raw/master/search-select-one.fieldplugin.zip) file from this repo, and attach it to the sample form on your SurveyCTO server.
+
+### Default SurveyCTO feature support
 
 | Feature / Property | Support |
 | --- | --- |
@@ -28,18 +38,11 @@ This field plug-in adds the ability to filter choice list options for a *select_
 | `quick` appearance | Yes |
 | `minimal` appearance | Yes |
 
-This field plugin started with the [baseline-select_one field plug-in](https://github.com/surveycto/baseline-select_one) as a template and inherits the listed [expanded features](https://github.com/surveycto/baseline-select_one#expanded-feature-support) supported by the baseline field plugin. 
-
-## How to use
-
-1. Download the sample form [extras/sample-form](https://github.com/surveycto/search-select-one/raw/master/extras/sample-form/Sample%20Form%20-%20Search%20a%20select_one%20choice%20list.xlsx) from this repo and upload it to your SurveyCTO server.
-1. Download the [search-select-one.fieldplugin.zip](https://github.com/surveycto/search-select-one/raw/master/search-select-one.fieldplugin.zip) file from this repo, and attach it to the sample form on your SurveyCTO server.
-
 ## More resources
 
 * **Sample form**  
 You can find a sample form definition here:   
-[Download sample form](https://github.com/surveycto/search-select-one/raw/master/search-select-one.fieldplugin.zip)  
+[Download sample form](https://github.com/surveycto/search-select-one/tree/master/extras/sample-form)  
 
 * **Developer documentation**  
 Instructions and resources for developing your own field plug-ins.  
