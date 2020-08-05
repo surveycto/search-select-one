@@ -52,16 +52,18 @@
 </form>
 
 <!-- This is what will be shown if the field has the 'minimal' appearance -->
-<select class="choices-container default-answer-text-size" id="select-dropdown-container">
-  <option value="">Select one answer</option>
-  {{#CHOICES}}
-  <option 
-    value="{{CHOICE_VALUE}}" 
-    {{#CHOICE_SELECTED}}selected{{/CHOICE_SELECTED}}>
-    {{CHOICE_LABEL}}
-  </option>
-  {{/CHOICES}}
-</select>
+<div id="select-container">
+  <select class="choices-container default-answer-text-size" id="select-dropdown-container">
+    <option value="">Select one answer</option>
+    {{#CHOICES}}
+    <option 
+      value="{{CHOICE_VALUE}}" 
+      {{#CHOICE_SELECTED}}selected{{/CHOICE_SELECTED}}>
+      {{CHOICE_LABEL}}
+    </option>
+    {{/CHOICES}}
+  </select>
+</div>
 
 <!-- This is what will be shown if the field has the 'likert' appearance -->
 <div class="likert-choices-container" id="likert-container">
