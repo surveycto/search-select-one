@@ -246,3 +246,10 @@
 .symbol {
     display: none;
 }
+
+/* .select-dropdown {
+    position: static;
+  }
+.select-dropdown .select-dropdown--above {
+        margin-top: 336px;
+  } */
