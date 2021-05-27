@@ -24,10 +24,10 @@
 <div class="hint default-hint-text-size" dir="auto">{{{HINT}}}</div>
 
 <!-- This is the input area that will be shown by default -->
+<input type="text" id="filter-text" autocomplete="off" class="search-box default-answer-text-size">
+
 <form class="choices-container" id="radio-buttons-container" dir="auto">
-  <div class="choice-container">
-    <input type="text" id="filter-text" autocomplete="off" class="search-box default-answer-text-size">
-  </div>
+
   {{#CHOICES}}
   <div class="choice-container radio {{#CHOICE_SELECTED}}selected{{/CHOICE_SELECTED}}">
     <input
