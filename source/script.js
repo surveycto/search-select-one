@@ -27,6 +27,7 @@ input.addEventListener('keyup', function (e) {
 // minimal appearance
 if (fieldProperties.APPEARANCE.includes('minimal') === true) {
   radioButtonsContainer.parentElement.removeChild(radioButtonsContainer) // remove the default radio buttons
+  $('#filter-text').hide() // remove the normal search box
   likertContainer.parentElement.removeChild(likertContainer) // remove the likert container
   selectDropDownContainer.style.display = 'block' // show the select dropdown
   $('#select-dropdown-container').select2({
