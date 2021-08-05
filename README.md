@@ -20,14 +20,14 @@ This field plug-in adds the ability to filter choice list options for a *select_
 ### Requirements
 *Requires at Android 6 or upwards to work on SurveyCTO Collect*.
 
-### Data Format
+## Data Format
 This field plug-in supports the `select_one` field type.
 Values are stored normally as per this field type.
 
 ## How to use
 
 ### Getting Started
-1. Download the [sample form](https://github.com/surveycto/search-select-one/raw/master/extras/sample-form/Sample%20Form%20-%20Search%20a%20select_one%20choice%20list.xlsx) from this repo and upload it to your SurveyCTO server.
+1. Download the [sample form](https://github.com/surveycto/search-select-one/raw/master/extras/sample-form/sample-form.zip) from this repo and upload it to your SurveyCTO server.
 1. Download the [search-select-one.fieldplugin.zip](https://github.com/surveycto/search-select-one/raw/master/search-select-one.fieldplugin.zip) file from this repo, and attach it to the sample form on your SurveyCTO server.
 
 ### Default SurveyCTO feature support
