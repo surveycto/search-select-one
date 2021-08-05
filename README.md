@@ -15,10 +15,10 @@ This field plug-in adds the ability to filter choice list options for a *select_
 
 ## Features
 * Provides a text box for searching a list of options.
-* Works with [preloaded choices](https://docs.surveycto.com/02-designing-forms/04-sample-forms/12.search-and-select.html)
+* Works with [preloaded choices](https://docs.surveycto.com/02-designing-forms/04-sample-forms/12.search-and-select.html).
 
 ### Requirements
-*Requires at Android 6 or upwards to work on SurveyCTO Collect*.
+*Requires Android 6 or upwards to work on SurveyCTO Collect*.
 
 ## Data Format
 This field plug-in supports the `select_one` field type.
